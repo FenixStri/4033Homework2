@@ -1,3 +1,9 @@
+<html>
+  <body>
+    
+    Welcome <?php echo $_POST["name"]; ?><br>
+Your email address is: <?php echo $_POST["email"]; ?>
+
 <nav class="navbar navbar-expand-lg bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -14,3 +20,5 @@
     </div>
   </div>
 </nav>
+</body>
+</html>

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang = "en">
   <head>
-     Heading <?php require_once('header.php');?>
+     <?php require_once('header.php');?>
   </head>
   
   <body>

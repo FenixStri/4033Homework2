@@ -27,7 +27,7 @@ E-mail: <input type="text" name="email"><br>
     <div class="col">
       One of three columns
       <div class="card">
-  <img src="wattter.png" class="card-img-top" alt="...">
+  <img src="wattter.png" class="card-img-top" alt="Ocean">
 
   <div class="card-body">
     <h5 class="card-title">Card title</h5>

@@ -17,6 +17,8 @@ E-mail: <input type="text" name="email"><br>
     </div>
     <div class="col">
       One of three columns
+      Enter name for GET <?php echo $_GET["name"]; ?><br>
+What is your email: <?php echo $_GET["email"]; ?>
     </div>
     <div class="col">
       One of three columns

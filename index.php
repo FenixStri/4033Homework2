@@ -8,7 +8,7 @@
      <div class="container text-center">
   <div class="row align-items-start">
     <div class="col">
-      One of three columns
+      POST
        <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
@@ -16,7 +16,7 @@ E-mail: <input type="text" name="email"><br>
 </form>
     </div>
     <div class="col">
-      One of three columns
+      GET
      <form action="handlepost.php" method="get">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>

@@ -17,7 +17,7 @@ E-mail: <input type="text" name="email"><br>
     </div>
     <div class="col">
       GET
-     <form action="handlepost.php" method="get">
+     <form action="GET.php" method="get">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">

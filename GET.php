@@ -1,8 +1,6 @@
-<html>
-  <head>
+
      <?php require_once('header.php');?>
-  </head>
-  <body>
+ 
     <div class="container text-center">
   <div class="row align-items-start">
     <div class="col">

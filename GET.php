@@ -9,13 +9,7 @@
  Your email address is: <?php echo $_GET["email"]; ?>
     </div>
     <div class="col">
-      <?php
-      Function write(){
-    echo "This is your get information";
-      }
-      
-      write();
-      
+     One of Three Columns
     </div>
     <div class="col">
       Information

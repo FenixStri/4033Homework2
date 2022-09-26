@@ -1,6 +1,15 @@
 
      <?php require_once('header.php');?>
  
+ <?php
+      function write(){
+    echo "This is your get information";
+      }
+      
+      write();
+?>
+      
+
     <div class="container text-center">
   <div class="row align-items-start">
     <div class="col">
